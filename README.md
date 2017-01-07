@@ -110,3 +110,6 @@ For example, in React, a component can re-render many times. If a new function w
 - [MDN: Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - [MDN: Arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [Never Bind in Render](https://ryanfunduk.com/articles/never-bind-in-render/)
+
+
+Test Test Test
